@@ -15,7 +15,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<video src='https://www.dropbox.com/s/utwxnjbf115sz6h/SimpleTodo_walkthrough_001.mp4?dl=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Link to Video Walkthrough](https://www.dropbox.com/s/utwxnjbf115sz6h/SimpleTodo_walkthrough_001.mp4?dl=true)
 
 ## Project Analysis
 
