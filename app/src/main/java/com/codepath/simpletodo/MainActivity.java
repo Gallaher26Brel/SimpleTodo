@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
             String name = data.getExtras().getString("editedText");
             int position = data.getExtras().getInt("daIndex");
             todoItems.set(position, name);
+            aToDoAdapter.notifyDataSetChanged();
             writeItems();
         }
         else {
