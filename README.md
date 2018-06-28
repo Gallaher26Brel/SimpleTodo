@@ -15,9 +15,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://www.dropbox.com/s/utwxnjbf115sz6h/SimpleTodo_walkthrough_001.mp4?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Project Analysis
 
