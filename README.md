@@ -27,7 +27,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** The `ArrayAdapter` can convert an `ArrayList` into a `ListView`. An advantage of this Adapter is that it is more efficient memory wise. The only rows kept in memory are the visible ones.
 
 ## Notes
 
